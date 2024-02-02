@@ -2,7 +2,7 @@
 
 # Project Overview
 
-Predicts number of olympic medals a country will win in the Olympics. Trains a Linear Regression machine learning model using imported historical data.
+Predicts number of olympic medals a country will win in the Olympics. Trains a Linear Regression machine learning model using imported historical data. Uses error ratio to evaluate model effectiveness and adjust model's prediction factors.
 
 
 # Machine learning project steps
